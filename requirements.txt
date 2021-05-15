@@ -1,5 +1,3 @@
 numpy >= 1.16  # Specify minimal numpy version
 scipy
 pytest
-math
-sys
